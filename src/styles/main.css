@@ -1,3 +1,17 @@
-body {
-    background-color: aqua;
+.container {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 90px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.text-menu {
+    color: red;
 }
