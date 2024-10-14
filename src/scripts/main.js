@@ -14,7 +14,7 @@ const state = {
         //gameVelocity: 1000,
         hitPosition: 0,
         result: 0,
-        curretTime: 6,
+        curretTime: 60,
         curretLife: 3,
     },
     actions: {
